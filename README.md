@@ -2,7 +2,7 @@
 🚀 MERN - Full Stack Developer 
 
 I'm passionate about technology and continuously seek opportunities to learn and grow in the ever-evolving tech landscape.
-
+\n
 
 ### 💻 Tech Stack
 I have experience working with various technologies, including:
