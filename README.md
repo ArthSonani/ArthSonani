@@ -1,7 +1,10 @@
-# Hi there! 👋 I'm Arth Sonani
-🚀 MERN - Full Stack Developer 
+# Hi there! 👋 I'm Arth Sonani – a **code whisperer** by day and a **bug exorcist** by night.  
 
-I'm passionate about technology and continuously seek opportunities to learn and grow in the ever-evolving tech landscape.
+💻 I turn ☕ into code and sometimes into **debugging sessions that last forever**.  
+🚀 Building cool things with **Java, Python, C, JavaScript, React, Node.js, Flask, and more** (basically, I collect programming languages like Infinity Stones 💎).  
+
+💡 Fun fact: **90% of my coding time is spent staring at errors I caused myself.**  
+🔍 Currently working on: **Fixing a bug that was working fine yesterday.**  
 <br><br>
 
 ### 💻 Tech Stack
@@ -34,5 +37,5 @@ I have experience working with various technologies, including:
 
 
 ## 📬 Connect with me
-Feel free to reach out to me on LinkedIn to discuss potential collaborations, share insights, or simply connect! <br><br>
+Hit me up if you want to talk tech, memes, or conspiracy theories about semicolons! 😆   <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArthSonani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthsonani)
