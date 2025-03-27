@@ -33,14 +33,5 @@ I have experience working with various technologies, including:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthsonani&layout=compact&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthsonani&theme=radical)
-
-
-## 🚀 Projects
-- [FreshNest](https://github.com/arthsonani/freshnest) - Local market grocery delivery platform.
-- [Sky Heaven Villa](https://github.com/arthsonani/skyheaven) - Website for a farm/bungalow in Mahabaleshwar.
-
-
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArthSonani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthsonani)
-[![Twitter](https://img.shields.io/badge/Twitter-ArthSonani-blue?style=flat-square&logo=twitter)](https://twitter.com/arthsonani)
