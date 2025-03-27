@@ -1,21 +1,10 @@
 # Hi there! 👋 I'm Arth Sonani
+🚀 MERN - Full Stack Developer 
 
-🎓 **Education:**  
-I'm currently pursuing my studies at Pandit Deendayal Energy University in Gandhinagar, Gujarat, India.
-
-💼 **Professional Network:**  
-With over 333 connections on LinkedIn, I actively engage with professionals across various industries, expanding my network and knowledge base.
-
-🌱 **Interests:**  
 I'm passionate about technology and continuously seek opportunities to learn and grow in the ever-evolving tech landscape.
 
 📫 **Let's Connect:**  
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/arthsonani) to discuss potential collaborations, share insights, or simply connect!
-
-
-
-![GitHub followers](https://img.shields.io/github/followers/arthsonani?style=social)
-![GitHub stars](https://img.shields.io/github/stars/arthsonani?style=social)
 
 
 ### Tech Stack 💻
