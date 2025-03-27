@@ -34,5 +34,5 @@ I have experience working with various technologies, including:
 
 
 ## 📬 Connect with me
-Feel free to reach out to me on LinkedIn to discuss potential collaborations, share insights, or simply connect! <br>
+Feel free to reach out to me on LinkedIn to discuss potential collaborations, share insights, or simply connect! <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArthSonani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthsonani)
