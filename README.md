@@ -30,9 +30,6 @@ I have experience working with various technologies, including:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Arth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthsonani&show_icons=true&theme=radical)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthsonani&layout=compact&theme=radical)
 
 
