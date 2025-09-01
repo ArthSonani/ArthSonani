@@ -1,6 +1,4 @@
 # **👋 Hey there! I'm Arth Sonani**  
-- 👨‍💻 A **code whisperer** by day and a **bug exorcist** by night.  
-- 💻 I turn ☕ into code and sometimes into **debugging sessions that last forever**.  
 - 🚀 Building cool things with **Java, Python, C, JavaScript, React, Node.js, Flask, and more** (basically, I collect programming languages like Infinity Stones 💎).  
 
 💡 Fun fact: **90% of my coding time is spent staring at errors I caused myself.**  
