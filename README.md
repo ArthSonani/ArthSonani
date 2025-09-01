@@ -1,7 +1,5 @@
 # **👋 Hey there! I'm Arth Sonani**  
-- 🚀 Building cool things with **Java, Python, C, JavaScript, React, Node.js, Flask, and more** (basically, I collect programming languages like Infinity Stones 💎).  
-
-💡 Fun fact: **90% of my coding time is spent staring at errors I caused myself.**  
+- 🚀 Building cool things with **JavaScript, React, Node.js, PHP, Flask, and more**.  
 🔍 Currently working on: **Fixing a bug that was working fine yesterday.**  
 <br><br>
 
