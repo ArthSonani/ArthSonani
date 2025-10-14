@@ -1,7 +1,6 @@
 # **👋 Hey there! I'm Arth Sonani**  
 - 🚀 Building cool stuff with **JavaScript, React, Node.js, PHP, Flask, and more**.  
 - 🔍 Currently working on: **Fixing a bug that was working fine yesterday.**  
-<br>
 
 ## Languages / Tools
 <!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
