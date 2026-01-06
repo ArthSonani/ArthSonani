@@ -1,11 +1,11 @@
 # **👋 Hey there! I'm Arth Sonani**  
-- 🚀 Building cool stuff with **JavaScript, React, Node.js, PHP, Flask, and more**.  
-- 🔍 Currently working on: **Fixing a bug that was working fine yesterday.**  
+- 🚀 Building cool stuff with **JavaScript, React.js, Next.js and many more**.  
+- 🔍 Currently working on: **Fixing a bug that was working fine yesterday 😛.**  
 
 ## Languages / Tools
 <!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,nodejs,express,java,python,flask,mysql,mongodb,postgres,redis,sqlite,firebase,docker,aws,git,postman,html,css,php,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,nodejs,express,java,php,python,flask,mysql,mongodb,sqlite,firebase,docker,aws,git,postman,html,css,c&theme=dark)](https://skillicons.dev)
  
 
 <!-- <details open>
